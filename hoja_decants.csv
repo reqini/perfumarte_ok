@@ -1,0 +1,17 @@
+﻿id,nombre,marca,ml,tamano,descripcion,imagen,precio,precio_anterior,descuento_pct,badge,badge_texto,estrellas,resenas,tipo,categoria,activo
+13,Sauvage,Dior,10,10ml Decant,Decant premium extraído del original. Fresco amaderado.,https://images.unsplash.com/photo-1615634260167-c8cdede054de?w=500&q=80&auto=format&fit=crop,3999,4999,20,dec,Decant,5,98,decant,Hombre,TRUE
+14,Baccarat Rouge 540,MFK,10,10ml Decant,El nicho más famoso del mundo en formato viajero.,https://images.unsplash.com/photo-1595425959729-514b5e3ce7c7?w=500&q=80&auto=format&fit=crop,5999,7499,20,dec,Decant,5,74,decant,Nicho,TRUE
+15,Good Girl,Carolina Herrera,10,10ml Decant,Floral oriental en miniatura.,https://images.unsplash.com/photo-1563170351-be82bc888aa4?w=500&q=80&auto=format&fit=crop,3499,,,dec,Decant,5,112,decant,Mujer,TRUE
+16,Acqua di Giò,Armani,10,10ml Decant,Fresco marino en formato viajero.,https://images.unsplash.com/photo-1588405748880-12d1d2a59d37?w=500&q=80&auto=format&fit=crop,3299,3999,18,best,Top,5,89,decant,Fresco,TRUE
+17,One Million,Paco Rabanne,10,10ml Decant,Dorado y poderoso en 10ml.,https://images.unsplash.com/photo-1523293182086-7651a899d37f?w=500&q=80&auto=format&fit=crop,3199,,,dec,Decant,4,67,decant,Dulce,TRUE
+18,Libre,YSL,10,10ml Decant,Libertad floral en pequeño frasco.,https://images.unsplash.com/photo-1541643600914-78b084683702?w=500&q=80&auto=format&fit=crop,4299,4999,14,new,Nuevo,5,53,decant,Mujer,TRUE
+19,Erba Pura,Sospiro,10,10ml Decant,Nicho cítrico amberizado en miniatura.,https://images.unsplash.com/photo-1588405748880-12d1d2a59d37?w=500&q=80&auto=format&fit=crop,5499,6499,15,dec,Nicho,5,41,decant,Nicho,TRUE
+28,Bleu de Chanel,Chanel,10,10ml Decant,Elegancia Chanel en 10ml.,https://images.unsplash.com/photo-1595425959729-514b5e3ce7c7?w=500&q=80&auto=format&fit=crop,5999,,,best,Premium,5,77,decant,Hombre,TRUE
+29,Oud Wood,Tom Ford,10,10ml Decant,Madera de oud en formato viajero.,https://images.unsplash.com/photo-1588405748880-12d1d2a59d37?w=500&q=80&auto=format&fit=crop,7999,9499,16,dec,Lujo,5,38,decant,Premium,TRUE
+30,Light Blue,D&G,10,10ml Decant,Veraniego y cítrico en 10ml.,https://images.unsplash.com/photo-1615634260167-c8cdede054de?w=500&q=80&auto=format&fit=crop,2999,3499,14,,,4,55,decant,Fresco,TRUE
+31,Black Opium,YSL,10,10ml Decant,Oriental oscura en miniatura.,https://images.unsplash.com/photo-1541643600914-78b084683702?w=500&q=80&auto=format&fit=crop,4499,4999,10,hot,Hot,5,92,decant,Intenso,TRUE
+32,Stronger With You,Armani,10,10ml Decant,Dulce especiado en 10ml.,https://images.unsplash.com/photo-1563170351-be82bc888aa4?w=500&q=80&auto=format&fit=crop,3799,,,dec,Decant,4,61,decant,Intenso,TRUE
+33,Flowerbomb,Viktor & Rolf,10,10ml Decant,Explosión floral en miniatura.,https://images.unsplash.com/photo-1523293182086-7651a899d37f?w=500&q=80&auto=format&fit=crop,4299,4999,14,best,Top,5,83,decant,Mujer,TRUE
+34,CK One,Calvin Klein,10,10ml Decant,Unisex fresco en formato viajero.,https://images.unsplash.com/photo-1595425959729-514b5e3ce7c7?w=500&q=80&auto=format&fit=crop,2499,2999,17,,,4,109,decant,Unisex,TRUE
+35,Chanel No.5,Chanel,10,10ml Decant,El icónico No.5 en 10ml.,https://images.unsplash.com/photo-1595425959729-514b5e3ce7c7?w=500&q=80&auto=format&fit=crop,6999,7999,13,best,Icónico,5,147,decant,Premium,TRUE
+36,212 NYC,Carolina Herrera,10,10ml Decant,Fresco floral contemporáneo 10ml.,https://images.unsplash.com/photo-1541643600914-78b084683702?w=500&q=80&auto=format&fit=crop,2799,,,dec,Decant,4,72,decant,Unisex,TRUE
